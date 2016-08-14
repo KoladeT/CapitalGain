@@ -1,0 +1,5 @@
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\GainCapitalTask\bin\Debug\GainCapitalTask.dll
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\GainCapitalTask\bin\Debug\GainCapitalTask.pdb
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\GainCapitalTask\obj\Debug\GainCapitalTask.csprojResolveAssemblyReference.cache
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\GainCapitalTask\obj\Debug\GainCapitalTask.dll
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\GainCapitalTask\obj\Debug\GainCapitalTask.pdb
